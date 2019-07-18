@@ -1,3 +1,22 @@
+header {
+  background-color: #333333;
+  position: fixed;
+  width: 100%;
+  z-index: 5;
+}
+
+nav {
+  margin: 0;
+  padding: 20px 0;
+}
+
+nav li {
+  color: #fff;
+  font-weight: 600;
+  display: inline-block;
+  width: 80px;
+}
+
 .jumbotron {
   height: 800px;
   background-image: url("https://i.redd.it/d8fh1nfcbva31.jpg");
