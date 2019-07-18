@@ -1,9 +1,5 @@
-h1 {
-  color: white;
-  background-color: blue;
-}
-
-.main {
-  color: #ffffff;
+.jumbotron {
+  height: 800px;
   background-image: url("https://i.redd.it/d8fh1nfcbva31.jpg");
+  background-size: cover;
 }
